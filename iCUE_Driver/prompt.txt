@@ -1,0 +1,6 @@
+Model:
+  Claude Sonet 4.5
+
+Prompt:
+  Help me write a linux kernel driver for the Corsair iCUE link hub
+
